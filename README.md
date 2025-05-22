@@ -1,0 +1,1 @@
+I'm a junior software developer with experience in ASP.NET, Joomla (HikaShop), WordPress, and SQL. I enjoy building practical web solutions and continuously improving my skills. Currently, I'm focused on growing into a more senior role while delivering reliable, user-focused development work.
